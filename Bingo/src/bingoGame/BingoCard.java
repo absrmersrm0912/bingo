@@ -32,7 +32,7 @@ public class BingoCard {
     public static String numG4;
     public static String numO4;
 
-    //5列目
+    //5列目ok
     public static String numB5;
     public static String numI5;
     public static String numN5;

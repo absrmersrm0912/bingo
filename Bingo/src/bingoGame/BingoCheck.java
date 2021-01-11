@@ -15,7 +15,7 @@ public class BingoCheck {
             c.main();
 
 
-            // 1回目
+            // 1回目ok
             int ball1 = b.Ball();
 
             ArrayList<Integer> box = new ArrayList<>();

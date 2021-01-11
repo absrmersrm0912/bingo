@@ -120,7 +120,7 @@ public class BingoCheck2 {
             System.out.print(g4+"  ");
             System.out.println(o4);
 
-            //5列目
+            //5列目ok
             String b5 = check(ball,BingoCard.getNumB5());
             String i5 = check(ball,BingoCard.getNumI5());
             String n5 = check(ball,BingoCard.getNumN5());

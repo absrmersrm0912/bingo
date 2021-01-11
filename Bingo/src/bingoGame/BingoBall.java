@@ -10,7 +10,7 @@ public class BingoBall {
         Random rnd = new Random();
         int rndBall = (rnd.nextInt(75) + 1); // 0+1から74+1  1から75
 
-        //同じ数字出ないように処理
+        //同じ数字出ないように処理ok
         return rndBall;
     }
 }
